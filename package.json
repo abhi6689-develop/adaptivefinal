@@ -19,6 +19,7 @@
     "apexcharts": "^3.22.2",
     "aws-amplify": "^3.3.11",
     "bootstrap": "^4.5.3",
+    "error-ex": "git+https://github.com/Qix-/node-error-ex.git",
     "google-charts": "^2.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
